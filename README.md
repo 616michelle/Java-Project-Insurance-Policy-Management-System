@@ -1,6 +1,3 @@
-# Java Project Insurance Policy Management System
-A Java application for managing insurance policies, built with Eclipse.
-
 # InsureRight - Insurance Policy Management System
 
 A Java console application for managing clients and their insurance policies.
